@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/selects/MultipleSelect.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "clsx": "latest",
+    "@material-ui/core": "latest"
+  }
+}
